@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build" : "browserify static/js/legacy/NScore.js -d -o static/js/NScore_bundle_legacy.js"
+    "build": "browserify static/js/legacy/NScore.js -d -o static/js/NScore_bundle_legacy.js"
   },
   "repository": {
     "type": "git",

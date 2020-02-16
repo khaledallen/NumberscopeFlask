@@ -6,11 +6,6 @@ from flask import render_template, url_for
 def main():
     return render_template('homepage.html')
 
-#  @app.route('/index')
-#  def index():
-#      return render_template('homepage.html')
-
-
 @app.route('/tool_page')
 def tool_page():
     return render_template('tool.html')

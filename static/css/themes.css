@@ -1,29 +1,3 @@
-p .main {
-  text-align: justify; }
-
-p .bottom {
-  margin-bottom: 50px; }
-
-p .margin-left {
-  margin-left: 25px; }
-
-p .margin-right {
-  margin-right: 25px; }
-
-p .b {
-  line-height: 1.8; }
-
-.container {
-  position: relative;
-  text-align: center;
-  color: white; }
-
-.centered {
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%); }
-
 .w3-theme-light-purple {
   color: #fff !important;
   background-color: #afafdc !important; }
@@ -43,6 +17,3 @@ p .b {
 .w3-theme-light-orange {
   color: #fff !important;
   background-color: #f88e52 !important; }
-
-body {
-  font-size: 12px; }
