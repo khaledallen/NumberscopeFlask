@@ -4,6 +4,7 @@
 SEQUENCE = require('./sequences/sequences.js');
 MODULES = require('./modules/modules.js');
 Validation = require('./Validation.js');
+P5 = require('./p5.js');
 
 const ListToSeq = SEQUENCE.ListToSeq;
 const OEISToSeq = SEQUENCE.OEISToSeq;

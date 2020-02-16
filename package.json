@@ -20,6 +20,10 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.13.1",
+    "rollup": "^1.31.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
   }
 }
